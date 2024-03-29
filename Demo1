@@ -6,7 +6,7 @@ stage('Build')
 {
 steps{
 echo "Building the Project.........."
-echo "SAKET:Kumar"
+echo "SAKET"
 }
 }
 stage('Test') 
